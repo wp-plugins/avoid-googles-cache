@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Avoid Google's Cache
-Plugin URI: http://kezze.dk
+Plugin URI: http://wordpress.org/extend/plugins/avoid-googles-cache/
 Description: Avoid getting your blog cached by e.g. Google.
 Author: Kristian Risager Larsen
 Version: 1.1
