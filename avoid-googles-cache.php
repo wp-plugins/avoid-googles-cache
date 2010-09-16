@@ -4,7 +4,7 @@ Plugin Name: Avoid Google's Cache
 Plugin URI: http://kezze.dk
 Description: Avoid getting your blog cached by e.g. Google.
 Author: Kristian Risager Larsen
-Version: 0.9
+Version: 1.1
 Author URI: http://kezze.dk
 */
 
