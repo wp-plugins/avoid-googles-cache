@@ -1,15 +1,15 @@
 === Avoid Google's Cache ===
 Contributors: kezze
 Donate link: https://www.paypal.com/xclick/business=paypal%40kezze.dk&item_name=Donation&no_note=1&tax=0&currency_code=EUR
-Tags: google, cache, google cache, google's cache, internet archive, web.archive.org
+Tags: google, cache, google cache, google's cache, internet archive, web.archive.org, wayback machine
 Requires at least: 2.0
 Tested up to: 3.0
 Stable tag: 1.2
 
-Avoid getting your blog cached by e.g. Google and Internet Archive.
+Avoid getting your blog cached by e.g. Google and Internet Archive (The Wayback Machine).
 
 == Description ==
-Avoid getting your blog cached by e.g. Google and Internet Archive.
+Avoid getting your blog cached by e.g. Google and Internet Archive (The Wayback Machine).
 
 == Installation ==
 1. Copy the plugin to `/wp-content/plugins/`
