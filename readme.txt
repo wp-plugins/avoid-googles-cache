@@ -3,7 +3,7 @@ Contributors: kezze
 Donate link: https://www.paypal.com/xclick/business=paypal%40kezze.dk&item_name=Donation&no_note=1&tax=0&currency_code=EUR
 Tags: google, cache, google cache, google's cache, internet archive
 Requires at least: 2.0
-Tested up to: 3.0
+Tested up to: 3.3
 Stable tag: 1.2
 
 Avoid getting your blog cached by e.g. Google and Internet Archive.
