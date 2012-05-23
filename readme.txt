@@ -27,3 +27,17 @@ Nothing really...
 
 = 0.9 =
 Initial release
+
+== Upgrade Notice ==
+
+= 1.2 =
+The plugin also excludes your site from the Internet Archive. Please upgrade.
+
+= 1.1 =
+Minor updates.
+
+= 1.0 =
+Ready for production.
+
+= 0.9 =
+Initial release
