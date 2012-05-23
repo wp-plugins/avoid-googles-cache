@@ -11,6 +11,9 @@ Avoid getting your blog cached by e.g. Google and Internet Archive.
 == Description ==
 Avoid getting your blog cached by e.g. Google and Internet Archive.
 
+** Credits **
+The banner is a composition of two photos by '[Skimaniac](http://www.flickr.com/photos/skimaniac/100495205/)' and [Patrick Brosset](http://www.flickr.com/photos/gnackgnackgnack/3942331668/).
+
 == Installation ==
 1. Copy the plugin to `/wp-content/plugins/`
 1. Activate the plugin.
