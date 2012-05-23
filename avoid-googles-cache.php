@@ -2,7 +2,7 @@
 /*
 Plugin Name: Avoid Google's Cache
 Plugin URI: http://wordpress.org/extend/plugins/avoid-googles-cache/
-Description: Avoid getting your blog cached by e.g. Google and Internet Archive (The Wayback Machine).
+Description: Avoid getting your blog cached by e.g. Google and Internet Archive.
 Author: Kristian Risager Larsen
 Version: 1.2
 Author URI: http://kezze.dk

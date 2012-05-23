@@ -1,15 +1,18 @@
 === Avoid Google's Cache ===
 Contributors: kezze
 Donate link: https://www.paypal.com/xclick/business=paypal%40kezze.dk&item_name=Donation&no_note=1&tax=0&currency_code=EUR
-Tags: google, cache, google cache, google's cache, internet archive, web.archive.org, wayback machine
+Tags: google, cache, google cache, google's cache, internet archive
 Requires at least: 2.0
-Tested up to: 3.0
+Tested up to: 3.3
 Stable tag: 1.2
 
-Avoid getting your blog cached by e.g. Google and Internet Archive (The Wayback Machine).
+Avoid getting your blog cached by e.g. Google and Internet Archive.
 
 == Description ==
-Avoid getting your blog cached by e.g. Google and Internet Archive (The Wayback Machine).
+Avoid getting your blog cached by e.g. Google and Internet Archive.
+
+** Credits **
+The banner is a composition of two photos by '[Skimaniac](http://www.flickr.com/photos/skimaniac/100495205/)' and [Patrick Brosset](http://www.flickr.com/photos/gnackgnackgnack/3942331668/).
 
 == Installation ==
 1. Copy the plugin to `/wp-content/plugins/`
@@ -17,27 +20,13 @@ Avoid getting your blog cached by e.g. Google and Internet Archive (The Wayback 
 
 == Changelog ==
 = 1.2 =
-Added: Exclusion from Internet Archive, http://web.archive.org/
+Added: Exclusion from Internet Archive ( http://web.archive.org/ )
 
 = 1.1 =
 Fixed: Donate-link and Tags in readme.txt 
 
 = 1.0 =
 Nothing really...
-
-= 0.9 =
-Initial release
-
-== Upgrade Notice ==
-
-= 1.2 =
-The plugin also excludes your site from the Internet Archive. Please upgrade.
-
-= 1.1 =
-Minor updates.
-
-= 1.0 =
-Ready for production.
 
 = 0.9 =
 Initial release
