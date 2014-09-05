@@ -3,8 +3,8 @@ Contributors: kezze
 Donate link: https://www.paypal.com/xclick/business=paypal%40kezze.dk&item_name=Donation&no_note=1&tax=0&currency_code=EUR
 Tags: google, cache, google cache, google's cache, internet archive
 Requires at least: 2.0
-Tested up to: 3.3
-Stable tag: 1.2
+Tested up to: 4.0
+Stable tag: 1.2.1
 
 Avoid getting your blog cached by e.g. Google and Internet Archive.
 
@@ -19,6 +19,10 @@ The banner is a composition of two photos by '[Skimaniac](http://www.flickr.com/
 1. Activate the plugin.
 
 == Changelog ==
+= 1.2.1 =
+Verified compatibility with Wordpress 4.0
+Added: Plugin logo for Wordpress 4.0
+
 = 1.2 =
 Added: Exclusion from Internet Archive ( http://web.archive.org/ )
 
